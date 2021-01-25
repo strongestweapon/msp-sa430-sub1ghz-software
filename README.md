@@ -1,0 +1,1 @@
+Download SA430setup.exe from the release.
